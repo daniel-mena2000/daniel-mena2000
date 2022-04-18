@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniel Mena 🇲🇽
+⬜ Hi 👋 My name is Daniel Mena 
 ============================
 
 '¡Hello, world!'
