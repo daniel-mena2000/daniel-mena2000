@@ -1,5 +1,7 @@
 Hi 👋 My name is Daniel Mena
-=============================
+============================
+
+'¡Hello, world!'
 
 <a href="https://www.github.com/daniel-mena2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/daniel-mena2000?logo=github&style=for-the-badge&color=6366f1&labelColor=134e4a" /></a>
@@ -19,4 +21,4 @@ src="https://img.shields.io/github/followers/daniel-mena2000?logo=github&style=f
 
 ### Badges
 
-<a href="https://github.com/daniel-mena2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mena2000&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/daniel-mena2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mena2000&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
