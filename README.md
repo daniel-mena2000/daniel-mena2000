@@ -1,7 +1,7 @@
-<p align="center">![planeta (2)](https://user-images.githubusercontent.com/89050072/163913467-d0049793-72cc-4e5e-8a16-877e81764d69.jpg)</p>
+![planeta (2)](https://user-images.githubusercontent.com/89050072/163913467-d0049793-72cc-4e5e-8a16-877e81764d69.jpg)
 
 
-💻 Hi 👋 My name is Daniel Mena 💻
+<p align="center">💻 Hi 👋 My name is Daniel Mena 💻</p>
 ============================
 
 '¡Hello, world!'
