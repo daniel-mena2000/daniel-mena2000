@@ -2,9 +2,8 @@
 
   
   <p align="center" width="300">
-   <img align="center"![corona](https://user-images.githubusercontent.com/89050072/163921089-408a79eb-5cd8-4481-846f-e49c4c6beb00.jpg)
 
-/>
+![planeta (2)](https://user-images.githubusercontent.com/89050072/163921172-c2612f45-103f-41ea-a252-6af204669afa.jpg)
 
    <h2 align="center"> Hi 👋 My name is Daniel Mena 💻</h2>
 </p>
