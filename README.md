@@ -1,4 +1,5 @@
-![planeta](https://user-images.githubusercontent.com/89050072/163913261-22e24ed7-a1f3-4d59-ad5a-5aa5d2e6f705.jpg)
+   ![planeta (2)](https://user-images.githubusercontent.com/89050072/163913467-d0049793-72cc-4e5e-8a16-877e81764d69.jpg)
+
 
 💻 Hi 👋 My name is Daniel Mena 💻
 ============================
