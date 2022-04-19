@@ -2,7 +2,7 @@
 
   
   <p align="center" width="300">
-   ![planeta (2)](https://user-images.githubusercontent.com/89050072/163913467-d0049793-72cc-4e5e-8a16-877e81764d69.jpg)
+   <img align="center" width="200" ![planeta (2)](https://user-images.githubusercontent.com/89050072/163913467-d0049793-72cc-4e5e-8a16-877e81764d69.jpg)/>
 
    <h2 align="center"> Hi 👋 My name is Daniel Mena 💻</h2>
 </p>
