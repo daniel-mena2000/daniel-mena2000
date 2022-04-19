@@ -1,9 +1,8 @@
   
 
-  <img align="center" ![planeta (2)](https://user-images.githubusercontent.com/89050072/163921258-3bb0537e-578a-42b1-8ffb-4e9ace5725c3.jpg)/>
-  <p align="center" width="300">
-   <h2 align="center"> Hi 👋 My name is Daniel Mena 💻</h2>
-</p>
+ <img align="center" ![planeta (2)](https://user-images.githubusercontent.com/89050072/163921258-3bb0537e-578a-42b1-8ffb-4e9ace5725c3.jpg)/>
+  
+ Hi 👋 My name is Daniel Mena 💻
 ==========================
 
 '¡Hello, world!'
