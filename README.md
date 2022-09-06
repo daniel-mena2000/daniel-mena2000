@@ -5,7 +5,7 @@
 
 ==========================
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6CEFF7&background=1D145F00&center=falso&vCenter=falso&width=435&lines='%C2%A1Hello%2C+world!'+%F0%9F%8C%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=F70000&background=1D145F00&center=falso&vCenter=falso&width=435&lines='%C2%A1Hello%2C+world!'+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
 <a href="https://www.github.com/daniel-mena2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/daniel-mena2000?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
