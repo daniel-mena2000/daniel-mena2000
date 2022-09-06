@@ -11,7 +11,7 @@
 src="https://img.shields.io/github/followers/daniel-mena2000?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
 ### Skills
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,git,bash,,vscode&theme=light)
 
 </div>
 </p>
