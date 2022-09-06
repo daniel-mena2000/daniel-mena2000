@@ -7,6 +7,12 @@
   
 
 '¡Hello, world!' 🌎
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://linkedin.com/in/thakur-ballary">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 
 <a href="https://www.github.com/daniel-mena2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/daniel-mena2000?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
