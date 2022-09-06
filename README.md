@@ -9,6 +9,7 @@
 '¡Hello, world!' 🌎
 
  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> 
+ 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg)
 
  ![skills](https://skillicons.dev/icons?i=html,css,js,git,bash,vscode&theme=light)
