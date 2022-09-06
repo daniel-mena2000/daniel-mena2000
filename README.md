@@ -1,5 +1,3 @@
-![wavetop](https://user-images.githubusercontent.com/82146140/177695541-fbee7a11-8763-49a8-a520-416cc9a5b97c.svg)
-
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D7&center=falso&vCenter=falso&width=435&lines=+Hi+%F0%9F%91%8B+My+name+is+Daniel+Mena+%F0%9F%92%BB)](https://git.io/typing-svg)
 
