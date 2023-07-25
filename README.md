@@ -1,4 +1,7 @@
- 
+ <div align="center">
+  <img src="https://profile-counter.glitch.me/daniel-mena2000/count.svg?"  />
+</div>
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D7&center=falso&vCenter=falso&width=435&lines=+Hi+%F0%9F%91%8B+My+name+is+Daniel+Mena+%F0%9F%92%BB)
 ](https://git.io/typing-svg)
 
@@ -6,8 +9,8 @@
 <div align="left">
   <img height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b76117b1r47l8qxfd4jcj9byrrm2busfpnzbq46wdw5ww&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 </div>
-'¡Hello, world!' 🌎
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg)
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -22,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg)
+
 
 
 </div>
