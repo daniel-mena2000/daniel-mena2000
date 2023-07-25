@@ -2,9 +2,10 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D7&center=falso&vCenter=falso&width=435&lines=+Hi+%F0%9F%91%8B+My+name+is+Daniel+Mena+%F0%9F%92%BB)
 ](https://git.io/typing-svg)
 
- <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges">  
-
+<div align="left">
+  <img height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b76117b1r47l8qxfd4jcj9byrrm2busfpnzbq46wdw5ww&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+</div>
 '¡Hello, world!' 🌎
 
  <div align="left">
@@ -20,9 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b76117b1r47l8qxfd4jcj9byrrm2busfpnzbq46wdw5ww&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-</div>
+
+
+
 
 </div>
 </p>
