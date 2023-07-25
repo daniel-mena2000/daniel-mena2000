@@ -1,9 +1,11 @@
  <div align="center">
   <img src="https://profile-counter.glitch.me/daniel-mena2000/count.svg?"  />
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=daniel-mena2000.daniel-mena2000&"  />
+</div>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D7&center=falso&vCenter=falso&width=435&lines=+Hi+%F0%9F%91%8B+My+name+is+Daniel+Mena+%F0%9F%92%BB)
-](https://git.io/typing-svg)
+
 
   <div id="badges">  
 <div align="left">
@@ -25,7 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7D7&center=falso&vCenter=falso&width=435&lines=+Hi+%F0%9F%91%8B+My+name+is+Daniel+Mena+%F0%9F%92%BB)
+](https://git.io/typing-svg)
 
 
 </div>
