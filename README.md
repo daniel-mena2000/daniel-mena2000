@@ -39,7 +39,7 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/daniel-mena2000/Practicas-con-CSS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=Practicas-con-CSS&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/daniel-mena2000/P-JavaScript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=P-JavaScript&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/daniel-mena2000/Practicas-con-CSS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=Practicas-con-CSS&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
  <div align="center">
   <img src="https://profile-counter.glitch.me/daniel-mena2000/count.svg?"  />
