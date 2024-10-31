@@ -7,10 +7,6 @@
 ![Right_Side](https://github.com/user-attachments/assets/4010d893-247e-488e-b3b7-d84f6c40031d)
 
 
-  <div id="badges">  
-<div align="left">
-  <img height="200" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b76117b1r47l8qxfd4jcj9byrrm2busfpnzbq46wdw5ww&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-</div>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg)
  <div align="left">
