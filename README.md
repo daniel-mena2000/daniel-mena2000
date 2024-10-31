@@ -3,8 +3,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-![about_me](https://github.com/user-attachments/assets/d9da3b4f-f733-42ea-a48d-fbaccc49f145)
+ <div align="center">
+<img src="https://github.com/user-attachments/assets/d9da3b4f-f733-42ea-a48d-fbaccc49f145"/>
+</div>
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg)
