@@ -4,8 +4,7 @@
   </a>
 </div>
 
-![Right_Side](https://github.com/user-attachments/assets/4010d893-247e-488e-b3b7-d84f6c40031d)
-
+![about_me](https://github.com/user-attachments/assets/d9da3b4f-f733-42ea-a48d-fbaccc49f145)
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg)
