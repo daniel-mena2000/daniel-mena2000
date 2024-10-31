@@ -3,7 +3,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&color=2AC06E&background=FFFC0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Mena" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=&duration=10000&pause=1000&color=00F7CC&background=FFFC0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Mena" alt="Typing SVG" /></a>
+<img width="70" src="https://github.com/user-attachments/assets/af982f60-50bd-42bb-af86-a2e010dbda3e"/>
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg) 
 
