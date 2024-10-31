@@ -38,7 +38,17 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/daniel-mena2000/Practicas-con-CSS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=Practicas-con-CSS&title_color=facc15&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Socials
+
+<p align="left"> <a href="https://www.github.com/daniel-mena2000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<a href="https://github.com/daniel-mena2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mena2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/daniel-mena2000/REACT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=REACT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daniel-mena2000/Proyectos-JavaScript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=Proyectos-JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
  <div align="center">
   <img src="https://profile-counter.glitch.me/daniel-mena2000/count.svg?"  />
