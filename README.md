@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=&duration=10000&pause=1000&color=00F7CC&background=FFFC0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Mena" alt="Typing SVG" /></a>
  
  <div align="left">
-<img width="120" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif"/>
+<img width="300" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif"/>
  </div>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=20000&pause=1000&color=00F7CC&background=1D145F00&center=falso&vCenter=falso&width=435&lines=S+k+i+l+l++s)](https://git.io/typing-svg) 
