@@ -25,15 +25,3 @@
 
 </div>
 </p>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/daniel-mena2000/REACT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=REACT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/daniel-mena2000/Proyectos-JavaScript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=Proyectos-JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
- <div align="center">
-  <img src="https://profile-counter.glitch.me/daniel-mena2000/count.svg?"  />
-</div>
-
-
-
