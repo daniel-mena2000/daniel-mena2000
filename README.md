@@ -1,8 +1,7 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-daniel-mena-lópez-675a96219/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="./img/d.png" alt="Banner" width="100%" />
+</p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=&duration=10000&pause=1000&color=00F7CC&background=FFFC0000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Mena" alt="Typing SVG" /></a>
  
  <div align="left">
