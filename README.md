@@ -15,8 +15,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/-TypeScript-61DAFB?style=for-the-badge&logo=typescript&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Git-61DAFB?style=for-the-badge&logo=Git&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind-61DAFB?style=for-the-badge&logo=Tailwindcss&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-Node%20Js-61DAFB?style=for-the-badge&logo=Node.js&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-Express-61DAFB?style=for-the-badge&logo=express&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Node%20Js-61DAFB?style=for-the-badge&logo=Node.js&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Express-61DAFB?style=for-the-badge&logo=express&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
 
 </div>
 </p>
