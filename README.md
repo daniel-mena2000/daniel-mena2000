@@ -35,6 +35,5 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mena2000&layout=compact)
 
 </p>
