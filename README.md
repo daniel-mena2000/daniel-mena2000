@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev
+<img alt="Static Badge" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
 
 
 
