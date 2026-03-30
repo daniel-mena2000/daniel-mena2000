@@ -8,13 +8,13 @@
 
 
 <div>
-<img alt="Static Badge" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-JavaScript-61DAFB?style=for-the-badge&logo=javascript&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-HTML-61DAFB?style=for-the-badge&logo=HTML5&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-CSS-61DAFB?style=for-the-badge&logo=css&logoColor=purple&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-TypeScript-61DAFB?style=for-the-badge&logo=typescript&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-Git-61DAFB?style=for-the-badge&logo=Git&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
-<img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind-61DAFB?style=for-the-badge&logo=Tailwindcss&labelColor=black&color=white&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-JavaScript-61DAFB?style=for-the-badge&logo=javascript&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-HTML5-61DAFB?style=for-the-badge&logo=HTML5&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-CSS-61DAFB?style=for-the-badge&logo=css&logoColor=purple&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-TypeScript-61DAFB?style=for-the-badge&logo=typescript&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Git-61DAFB?style=for-the-badge&logo=Git&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind-61DAFB?style=for-the-badge&logo=Tailwindcss&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Node%20Js-61DAFB?style=for-the-badge&logo=Node.js&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Express-61DAFB?style=for-the-badge&logo=express&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
 
