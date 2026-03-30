@@ -34,4 +34,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/-Express-61DAFB?style=for-the-badge&logo=express&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
 
 </div>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mena2000
 </p>
