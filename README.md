@@ -36,8 +36,10 @@
 
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=transparent)
 
+<div align="center>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=nord_dark)
+</div>
 
 
 </p>
