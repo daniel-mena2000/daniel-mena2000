@@ -36,9 +36,8 @@
 
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=daniel-mena2000&theme=dark)
 
 
 </p>
