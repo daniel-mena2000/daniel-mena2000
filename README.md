@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=5314CD&center=true&vCenter=true&width=500&lines=Daniel+Mena;Frontend+Developer;React+%7C+TypeScript;Always+learning..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=ECE4FC&center=true&vCenter=true&width=500&lines=Daniel+Mena;Frontend+Developer;React+%7C+TypeScript;Always+learning..." />
 </p>
 
 <p align="center">
@@ -45,14 +45,6 @@
  <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=transparent" />
 </div>
-
-  <img src="(https://github.com/daniel-mena2000/daniel-mena2000/blob/output/github-contribution-grid-snake.svg" />
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daniel-mena2000&theme=tokyonight&no-frame=true" />
-</p>
 
 
 </p>
