@@ -47,5 +47,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=transparent" />
 </div>
 
+## 🚀 Proyectos destacados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=REACT&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=Proyectos-JavaScript2&theme=tokyonight&hide_border=true" />
+</p>
+
 
 </p>
