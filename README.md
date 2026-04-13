@@ -54,5 +54,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-mena2000&repo=Proyectos-JavaScript&theme=tokyonight&hide_border=true" />
 </p>
 
-
 </p>
