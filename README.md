@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=ECE4FC&center=true&vCenter=true&width=500&lines=Daniel+Mena;Frontend+Developer;React+%7C+TypeScript;Always+learning..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=60D1C9&center=true&vCenter=true&width=500&lines=Daniel+Mena;Frontend+Developer;React+%7C+TypeScript;Always+learning..." />
 </p>
 
 <p align="center">
@@ -40,6 +40,7 @@
 
 </div>
 
+<hr>
 
 
  <div align="center">
