@@ -31,9 +31,12 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/-Node%20Js-61DAFB?style=for-the-badge&logo=Node.js&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
  <span>▫️</span>
 
+
 <img alt="Static Badge" src="https://img.shields.io/badge/-Express-61DAFB?style=for-the-badge&logo=express&labelColor=black&color=black&link=link%3Dhttps%3A%2F%2Freact.dev">
 
 </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=github_dark)
 
 
 </p>
