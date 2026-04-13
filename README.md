@@ -44,6 +44,8 @@
 
 
  <div align="center">
+  <img src="https://raw.githubusercontent.com/daniel-mena2000/daniel-menaIm/master/img/d.png" alt="Banner de Daniel Mena" width="50%" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=transparent" />
 </div>
 
