@@ -37,11 +37,11 @@
 </div>
 
 
-<p align="center>
+
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=nord_dark)
   
-</p>
+
 
 
 </p>
