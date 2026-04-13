@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Daniel+Mena;Desarrollador+Frontend;React+%2B+TypeScript;Amante+del+c%C3%B3digo+%F0%9F%92%BB" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/daniel-mena2000/daniel-menaIm/master/img/d.png" alt="Banner de Daniel Mena" width="100%" />
 </p>
 
@@ -38,9 +42,9 @@
 
 
 
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=nord_dark)
-  
+ <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=transparent" />
+</div>
 
 
 
