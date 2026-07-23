@@ -47,7 +47,7 @@
 
 
  <div align="center">
-<img width="300" height="300" alt="ts2" src="https://github.com/user-attachments/assets/19526df8-b873-48ed-bcc2-76c5203f9fe8" />
+<img width="300" height="300" alt="ts" src="https://github.com/user-attachments/assets/8c155253-dee7-4ea1-9cc4-ccfcca2c0f66" />
  
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniel-mena2000&theme=transparent" />
