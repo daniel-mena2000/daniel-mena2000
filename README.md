@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="ts2" src="https://github.com/user-attachments/assets/f1f21ea1-e373-4dc0-abbd-731927306d75" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=808080&center=true&vCenter=true&width=500&lines=Daniel+Mena;Frontend+Developer;React+%7C+TypeScript;Always+learning..." />
 </p>
@@ -41,6 +42,10 @@
 </div>
 
 <hr>
+
+
+<img width="1254" height="1254" alt="ts2" src="https://github.com/user-attachments/assets/a9f45d16-9a8f-43a3-95ec-771016ecd3a8" />
+
 
 
  <div align="center">
